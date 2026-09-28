@@ -1,3 +1,0 @@
-streamlit
-faster-whisper
-anthropic
